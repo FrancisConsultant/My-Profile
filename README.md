@@ -47,7 +47,7 @@ An interactive Excel dashboard designed to analyze:
 - Service distribution  
 - Profitability (margin analysis)  
 
-🔗 **
+🔗 *https://github.com/FrancisConsultant/SaleData-Performance-/blob/main/Sale%20_%20Data%20_%20Dashboard.xlsx*
 
 ---
 
@@ -75,8 +75,8 @@ I am actively transitioning into:
 ---
 
 ## 📫 Contact Me
-- 📧 Email: *(Add your email)*  
-- 🔗 LinkedIn: *(Add your LinkedIn profile)*  
+- 📧 Email: *(francisokuonghae2026@gmail.com)*  
+- 🔗 LinkedIn: *(https://www.linkedin.com/in/francis-okuonghae-fca-aca-icaew-mba-acti-pcda-bia-4420b785/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGqGmCGObQf2M%2Boh0QLN%2BFg%3D%3D)*  
 
 ---
 
